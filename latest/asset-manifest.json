@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.076bb175.css",
-    "main.js": "/static/js/main.160a935c.js",
+    "main.js": "/static/js/main.f25ebb36.js",
     "static/media/EIGHT 20 LOGO.jpg": "/static/media/EIGHT 20 LOGO.62dacd3d0a0da9d3aeb7.jpg",
     "static/media/smiley icon3.png": "/static/media/smiley icon3.22a1592d736d7b3a0f3f.png",
     "static/media/line_2_picture.png": "/static/media/line_2_picture.2498d9d7faa95163fe5f.png",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.076bb175.css",
-    "static/js/main.160a935c.js"
+    "static/js/main.f25ebb36.js"
   ]
 }
